@@ -6,3 +6,5 @@
 /Shopping/.vs
 /Shopping/Shopping.Client/bin
 /Shopping/Shopping.Client/obj
+/Shopping/Shopping.API/obj
+/Shopping/Shopping.API/bin/Debug/net8.0

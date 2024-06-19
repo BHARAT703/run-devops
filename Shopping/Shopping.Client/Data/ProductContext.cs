@@ -8,6 +8,7 @@ namespace Shopping.Client.Data
         {
             new Product() { Name = "IPhone X", Description = "The phone with good camerga", ImageFile = "product-1.png", Price = 120000M, Category = "SmartPhone"},
             new Product() { Name = "Samsung S20+", Description = "BigScreen Phone", ImageFile = "product-2.png", Price = 60000M, Category = "SmartPhone"},
+            new Product() { Name = "Oppo", Description = "chinese phone", ImageFile = "product-3.png", Price = 20000M, Category = "SmartPhone"},
         };
     }
 }
